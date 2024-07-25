@@ -1,4 +1,2 @@
 During my academic journey, I have developed a strong foundation in data modeling, statistical analysis, and algorithm design. My final year project, where I developed a robust text summarization application using Django, PyPDF2, and Hugging Face Transformers, is a testament to my ability to apply machine learning techniques to real-world problems. This project not only enhanced my technical skills but also honed my ability to manage projects and deliver solutions that meet user requirements.
-Dashboards:
-To provide users with a comprehensive and intuitive overview of the summarized content, the experimental phase included the development of interactive dashboards. 
-These dashboards offer a centralized platform for users to access and explore the generated summaries, customized according to their preferences.
+![image](https://github.com/user-attachments/assets/3a2e07dc-3e0f-454b-a558-e7fbd3edeb8a)
